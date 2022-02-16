@@ -135,7 +135,7 @@ st.markdown(
     """
     Calculate the Prism yLuna Farm APR based on total yLuna staked and the prices of yLuna, Luna and Prism. There are 130,000,000 Prism tokens to be farmed over 12 months.
     
-    This calculator builds on lejimmy's [Prism Valuation Calculator](https://share.streamlit.io/lejimmy/prism) to predict the upcoming Prism yLuna Farm APR.
+    This calculator builds on lejimmy's [Prism Valuation Calculator](https://share.streamlit.io/lejimmy/prism) to predict the upcoming yLuna Prism Farm APR.
 
     Note: Changing the price of Luna will automatically adjust the raw Luna Staking APR.
     """
