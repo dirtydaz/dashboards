@@ -137,7 +137,7 @@ st.markdown(
     
     This calculator builds on lejimmy's [Prism Valuation Calculator](https://share.streamlit.io/lejimmy/prism) to predict the upcoming Prism yLuna Farm APR.
 
-    Note: Changing the price of Luna will automatically adjust the raw Luna Staking APR
+    Note: Changing the price of Luna will automatically adjust the raw Luna Staking APR.
     """
 )
 
