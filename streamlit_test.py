@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+pip install owid-catalog
 from owid import catalog
 
 generation_capacity = catalog.find('renewable_electricity_capacity', version = '2023-06-26').load()
